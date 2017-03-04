@@ -1,0 +1,273 @@
+Last login: Sat Mar  4 14:28:35 on ttys000
+Philemons-MBP:~ philemonmastewal$ open .bash_history
+Philemons-MBP:~ philemonmastewal$ md [DojoAssignments]
+-bash: md: command not found
+Philemons-MBP:~ philemonmastewal$ mkdir
+usage: mkdir [-pv] [-m mode] directory ...
+Philemons-MBP:~ philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ mkdir [DojoAssignments
+Philemons-MBP:~ philemonmastewal$ mkdir [DojoAssignments]
+Philemons-MBP:~ philemonmastewal$ mkdir DojoAssignments
+mkdir: DojoAssignments: File exists
+Philemons-MBP:~ philemonmastewal$ mkdir[DojoAssignments]
+-bash: mkdir[DojoAssignments]: command not found
+Philemons-MBP:~ philemonmastewal$ mkdir [DojoAssignments]
+mkdir: [DojoAssignments]: File exists
+Philemons-MBP:~ philemonmastewal$ pwd
+/Users/philemonmastewal
+Philemons-MBP:~ philemonmastewal$ cd [DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ pwd
+/Users/philemonmastewal/[DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd[DojoAssignments]
+-bash: cd[DojoAssignments]: command not found
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [DojoAssignments]
+-bash: cd: [DojoAssignments]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [Dojo_Assignments]
+-bash: cd: [Dojo_Assignments]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ pwd
+/Users/philemonmastewal/[DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ rd
+-bash: rd: command not found
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd..
+-bash: cd..: command not found
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd ..
+Philemons-MBP:~ philemonmastewal$ cd ..
+Philemons-MBP:Users philemonmastewal$ pwd
+/Users
+Philemons-MBP:Users philemonmastewal$ pwd
+/Users
+Philemons-MBP:Users philemonmastewal$ cd [DojoAssignments]
+-bash: cd: [DojoAssignments]: No such file or directory
+Philemons-MBP:Users philemonmastewal$ cd DojoAssignments
+-bash: cd: DojoAssignments: No such file or directory
+Philemons-MBP:Users philemonmastewal$ pwd
+/Users
+Philemons-MBP:Users philemonmastewal$ pwd
+/Users
+Philemons-MBP:Users philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ pwd
+/Users/philemonmastewal/dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ pwd
+/Users/philemonmastewal/dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir[WebFundamentals]
+-bash: mkdir[WebFundamentals]: command not found
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [WebFundamentals]
+Philemons-MBP:dojoassignments philemonmastewal$ ls
+MEAN			WebFundamentals		netCore
+Python			[WebFundamentals]
+Ruby			iOS
+Philemons-MBP:dojoassignments philemonmastewal$ pwd
+/Users/philemonmastewal/dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [Python,MEAN,Ruby,iOS,netCore]
+Philemons-MBP:dojoassignments philemonmastewal$ ls
+MEAN				[Python,MEAN,Ruby,iOS,netCore]
+Python				[WebFundamentals]
+Ruby				iOS
+WebFundamentals			netCore
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir  [Python]
+Philemons-MBP:dojoassignments philemonmastewal$ ls
+MEAN				[Python]
+Python				[WebFundamentals]
+Ruby				iOS
+WebFundamentals			netCore
+[Python,MEAN,Ruby,iOS,netCore]
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [MEAN]
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [Ruby]
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [iOS]
+mkdir [netCore]
+ls
+ls
+cd[WebFundamentals]
+cd [WebFundamentals]
+pwd
+touch [about.txt]
+ls
+cd
+ls
+cd [DojoAssignments]
+pwd
+cd [dojoassignments]
+cd [DojoAssignments]
+pwd
+cd DojoAssignments
+ls
+cd mean
+cd MEAN
+pwd
+ls
+cd MEAN
+cd [MEAN]
+touch [about.txt]
+ls
+cd iOS
+cd [iOS]
+cd
+cd dojoassignments
+cd iOS
+cd [iOS]
+touch [about.txt]
+cd
+cd dojoassignments
+cd [Python]
+touch[about.txt]
+touch [about.txt]
+ls
+cd
+cd Dojoassignments
+cd [netCore]
+touch [about.txt]
+cd
+cd dojoassignments
+cd [Ruby]
+touch [about.txt]
+cd
+cd dojoassignments
+cd [WebFundamentals]
+mkdir [Git]
+mkdir [HTML]
+MKDIR [CSS]
+mkdir [Javascript]
+cd Git
+cd [Git]
+touch [about.txt]
+cd ..
+cd [HTML]
+touch [about.txt]
+ls
+cd..
+cd ..
+cd [CSS]
+touch [about.txt]
+CD ..
+LS
+cd..
+cd ..
+cd [Javascript]
+touch [about.txt]
+ls
+cd ..
+cd [HTML]
+touch [indentation.html]
+ls -R
+Philemons-MBP:dojoassignments philemonmastewal$ mkdir [netCore]
+Philemons-MBP:dojoassignments philemonmastewal$ ls
+MEAN				[Ruby]
+Python				[WebFundamentals]
+Ruby				[iOS]
+WebFundamentals			[netCore]
+[MEAN]				iOS
+[Python,MEAN,Ruby,iOS,netCore]	netCore
+[Python]
+Philemons-MBP:dojoassignments philemonmastewal$ ls
+MEAN				[Ruby]
+Python				[WebFundamentals]
+Ruby				[iOS]
+WebFundamentals			[netCore]
+[MEAN]				iOS
+[Python,MEAN,Ruby,iOS,netCore]	netCore
+[Python]
+Philemons-MBP:dojoassignments philemonmastewal$ cd[WebFundamentals]
+-bash: cd[WebFundamentals]: command not found
+Philemons-MBP:dojoassignments philemonmastewal$ cd [WebFundamentals]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ pwd
+/Users/philemonmastewal/dojoassignments/[WebFundamentals]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ ls
+[about.txt]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ ls
+Applications		Library			[DojoAssignments
+Desktop			Movies			[DojoAssignments]
+Documents		Music			textfile.txt
+DojoAssignments		Pictures
+Downloads		Public
+Philemons-MBP:~ philemonmastewal$ cd [DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ pwd
+/Users/philemonmastewal/[DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [dojoassignments]
+-bash: cd: [dojoassignments]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [DojoAssignments]
+-bash: cd: [DojoAssignments]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ pwd
+/Users/philemonmastewal/[DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd DojoAssignments
+-bash: cd: DojoAssignments: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ ls
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd mean
+-bash: cd: mean: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd MEAN
+-bash: cd: MEAN: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ pwd
+/Users/philemonmastewal/[DojoAssignments]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ ls
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd MEAN
+-bash: cd: MEAN: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [MEAN]
+-bash: cd: [MEAN]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ ls
+[about.txt]
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd iOS
+-bash: cd: iOS: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd [iOS]
+-bash: cd: [iOS]: No such file or directory
+Philemons-MBP:[DojoAssignments] philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ cd iOS
+Philemons-MBP:iOS philemonmastewal$ cd [iOS]
+-bash: cd: [iOS]: No such file or directory
+Philemons-MBP:iOS philemonmastewal$ touch [about.txt]
+Philemons-MBP:iOS philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ cd [Python]
+Philemons-MBP:[Python] philemonmastewal$ touch[about.txt]
+-bash: touch[about.txt]: command not found
+Philemons-MBP:[Python] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[Python] philemonmastewal$ ls
+[about.txt]
+Philemons-MBP:[Python] philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd Dojoassignments
+Philemons-MBP:Dojoassignments philemonmastewal$ cd [netCore]
+Philemons-MBP:[netCore] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[netCore] philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ cd [Ruby]
+Philemons-MBP:[Ruby] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[Ruby] philemonmastewal$ cd
+Philemons-MBP:~ philemonmastewal$ cd dojoassignments
+Philemons-MBP:dojoassignments philemonmastewal$ cd [WebFundamentals]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ mkdir [Git]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ mkdir [HTML]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ MKDIR [CSS]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ mkdir [Javascript]
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd Git
+-bash: cd: Git: No such file or directory
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd [Git]
+Philemons-MBP:[Git] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[Git] philemonmastewal$ cd ..
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd [HTML]
+Philemons-MBP:[HTML] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[HTML] philemonmastewal$ ls
+[about.txt]
+Philemons-MBP:[HTML] philemonmastewal$ cd..
+-bash: cd..: command not found
+Philemons-MBP:[HTML] philemonmastewal$ cd ..
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd [CSS]
+Philemons-MBP:[CSS] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[CSS] philemonmastewal$ CD ..
+Philemons-MBP:[CSS] philemonmastewal$ LS
+[about.txt]
+Philemons-MBP:[CSS] philemonmastewal$ cd..
+-bash: cd..: command not found
+Philemons-MBP:[CSS] philemonmastewal$ cd ..
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd [Javascript]
+Philemons-MBP:[Javascript] philemonmastewal$ touch [about.txt]
+Philemons-MBP:[Javascript] philemonmastewal$ ls
+[about.txt]
+Philemons-MBP:[Javascript] philemonmastewal$ cd ..
+Philemons-MBP:[WebFundamentals] philemonmastewal$ cd [HTML]
+Philemons-MBP:[HTML] philemonmastewal$ touch [indentation.html]
+Philemons-MBP:[HTML] philemonmastewal$ ls -R
+[about.txt]		[indentation.html]
+Philemons-MBP:[HTML] philemonmastewal$ 
